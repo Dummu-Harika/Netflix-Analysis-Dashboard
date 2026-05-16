@@ -71,9 +71,7 @@ The dataset contains information about Netflix titles including:
 This dashboard helps understand Netflix content trends and provides interactive visual analysis for better decision-making.
 
 ## Author
-Your Name  
+Harika Dummu
 Aspiring Data Analyst
 
-## Connect With Me
-- LinkedIn: Your LinkedIn Profile
-- GitHub: Your GitHub Profile
+
